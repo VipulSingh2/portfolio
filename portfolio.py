@@ -87,7 +87,7 @@ with st.form(key='my_form'):
             mydb = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="wc58uyes",
+                password=" ",
                 database="details"
             )
             cursor = mydb.cursor()
