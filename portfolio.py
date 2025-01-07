@@ -22,7 +22,7 @@ st.toast('Welcome to My Portfolio', icon='👋')
 col1, col2 = st.columns([1, 1])
 col1.title("I am :blue[Vipul Singh]")
 col1.header("An Aspiring Analyst")
-col2.image('https://github.com/VipulSingh2/portfolio/blob/main/vipulimage.jpg', width=200)
+col2.image(vipulimage.jpg', width=200)
 
 st.subheader("About Me", divider=True)
 st.markdown("I am a highly motivated and analytical professional with a Bachelor's of Technology from the Modern Institute of Technology & Research Center, specializing in Artificial Intelligence and Data Science. With a strong foundation in SQL, MySQL Server, Database Admin, Excel, Python, and Power BI, I possess a passion for extracting insights from data. My hands-on experience includes analyzing datasets, developing end-to-end data analysis report dashboards, and creating educational content to simplify complex analytical concepts.")
